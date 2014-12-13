@@ -1,3 +1,3 @@
-scala
+JavaVM
 =====
-AU hw
+scala & clojure AU hws
