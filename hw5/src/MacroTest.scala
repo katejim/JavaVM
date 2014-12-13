@@ -1,8 +1,6 @@
 /**
  * Created by kate on 13.12.14.
  */
-import scala.language.experimental.macros
-
 
 object MacroTest  extends  App{
   import PrintfMacro._
